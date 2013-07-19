@@ -1,0 +1,5 @@
+Ce fichier contiendra les tables de notre BD
+
+TableName: comment about the table
+	field: type, constraints
+	field: type, constraints
